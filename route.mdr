@@ -58,6 +58,17 @@ Some formatting by **BrowniesRuns**
 
 :::
 
+:::card{theme=warning}
+**Ways to Make Tracking Stats Easier:**
+- Using Screenshot/Record Buffer option on OBS
+- Taking a picture on your mobile phone
+- Track before moving on with the menu *(strongly NOT recommended)*
+- Ask someone to check
+
+*Nose -> Right Eye -> Nose -> Left Eye -> Nose -> Right Eye.*
+:::
+
+
 ----
 
 
@@ -108,6 +119,7 @@ Pick :info[**Popplio**]{color=blue}
 :::
 
 - Try to leave Iki Town
+- Input stats now into tracker and remember to input them every level
 
 :::if{source="Popplio" condition="speed=(19- / x / x)" theme=info}
 Your Popplio's speed is too low. It is a RESET
@@ -123,7 +135,7 @@ Your Popplio's special attack is too low. It is a RESET
   :::
 :::::
 
-If didn't already, check Popplio's level 5 stats at the level up screen and then level 6 stats. 
+*Check Popplio's Level 5 stats here if not done already and then do Level 6*
 
 :::if{source="Popplio" condition="defense=(8- / x / x)" theme=info level=6}
 Your Popplio's defense is low. This may cause the run to be more difficult; consider resetting.
