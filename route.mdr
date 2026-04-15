@@ -175,12 +175,15 @@ Your Popplio's defense is low. This may cause the run to be more difficult; cons
 - Pet 3 times   
 :::
 
+
+:::card{theme=warning}
 :::if{source="Popplio" condition="spdef=10-11" level=7}
 ### Early Shopping :info[10-11 Sp.Def (0 - 16 / x / x) at Lvl 7]{Color=blue}
 > #### Buy (Left Vendor)
 > - 20 Repels (^^)
 > - 1 Awakening (<^)
 > - 2 Antidotes (^^)
+:::
 :::
 
 - **PC:** Deposit Pikipek.
