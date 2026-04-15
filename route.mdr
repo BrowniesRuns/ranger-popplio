@@ -72,7 +72,7 @@
 ----
 
 
-## The Notes
+## Melemele Island
 
 :::card{theme=info}
 **Options:**
@@ -152,7 +152,7 @@ Your Popplio's defense is low. This may cause the run to be more difficult; cons
   :::
 :::::
 
-**→ Check if you have 10 or 11 Sp. Def, this is bad Sp. Def.**
+→ :info[**Check if you have 10 or 11 Sp. Def, this is bad Sp. Def.**]{color=red}
 
 :info[**FREE HEAL**]{color=pink}
 
@@ -168,7 +168,14 @@ Your Popplio's defense is low. This may cause the run to be more difficult; cons
 
 :info[**FREE HEAL**]{color=pink}
 
-* **Refresh:** Pet (2 beans, 3 pets) before entering Pokémon Center.
+
+:::card{theme=info}
+**Pokémon Refresh 2:**
+- Feed 2 Beans
+- Pet 3 times   
+
+*Nose -> Right Eye -> Nose -> Left Eye -> Nose -> Right Eye.*
+:::
 
 :::if{source="Popplio" condition="spdef=10-11" level=7}
 ### Early Shopping :info[10-11 Sp.Def (0 - 16 / x / x) at Lvl 7]{Color=blue}
