@@ -173,8 +173,6 @@ Your Popplio's defense is low. This may cause the run to be more difficult; cons
 **Pokémon Refresh 2:**
 - Feed 2 Beans
 - Pet 3 times   
-
-*Nose -> Right Eye -> Nose -> Left Eye -> Nose -> Right Eye.*
 :::
 
 :::if{source="Popplio" condition="spdef=10-11" level=7}
